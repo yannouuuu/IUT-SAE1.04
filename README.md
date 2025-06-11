@@ -27,6 +27,9 @@ Le livrable principal de cette SAÉ est le rapport détaillant la conception et 
 
 -   [`rapport.pdf`](./rapport.pdf)
 
+Un second livrable est le fichier Access de la base de données, comprenant les tables, requêtes, formulaires et états nécessaires à l’exploitation des données.
+-   [`base_de_donnees.accdb`](./base_de_donnees.accdb)
+
 ---
 
 ## Développé avec 💖 par
